@@ -1,0 +1,12 @@
+{"version": 2, "width": 146, "height": 38, "timestamp": 1577423347, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.098418, "o", "\u001b]0;pi@raspberrypi: /tmp/work\u0007\u001b[01;32mpi@raspberrypi\u001b[00m:\u001b[01;34m/tmp/work $\u001b[00m "]
+[0.926735, "o", "e"]
+[1.238108, "o", "c"]
+[1.30175, "o", "h"]
+[1.3746, "o", "o"]
+[1.478162, "o", " "]
+[1.803861, "o", "'"]
+[1.963711, "o", "A"]
+[2.107528, "o", "'"]
+[2.566924, "o", "\r\nA\r\n\u001b]0;pi@raspberrypi: /tmp/work\u0007\u001b[01;32mpi@raspberrypi\u001b[00m:\u001b[01;34m/tmp/work $\u001b[00m "]
+[4.464998, "o", "exit\r\n"]
